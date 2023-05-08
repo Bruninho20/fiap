@@ -1,2 +1,2 @@
 # fiap
-Somente arquivos FIAP
+Somente armazenar arquivos de front-end da FIAP para fins de estudos
